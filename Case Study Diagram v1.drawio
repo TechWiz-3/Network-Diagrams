@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T06:37:46.443Z" agent="5.0 (Macintosh)" etag="rYKiDlDMqu87zaZDwVca" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T07:10:03.088Z" agent="5.0 (Macintosh)" etag="ny5hUY3fB3VTo8-T1483" version="17.4.0" type="github">
   <diagram id="7B7-dU7_U9arGdIsB1Jr" name="Page-1">
-    <mxGraphModel dx="1541" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1832" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IoEwdeMXLNU2qVer5Yop-39" value="ITWAP 01&lt;br&gt;&lt;div&gt;ITSupportVLAN100&lt;/div&gt;&lt;div&gt;192.168.100.11/24&lt;/div&gt;&lt;div&gt;Switch port 21&lt;/div&gt;&lt;div&gt;Gateway 192.168.100.1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-39" value="ITWAP 01&lt;br&gt;&lt;div&gt;ITSupportVLAN200&lt;/div&gt;&lt;div&gt;192.168.200.11/24&lt;/div&gt;&lt;div&gt;Switch port 21&lt;/div&gt;&lt;div&gt;Gateway 192.168.200.1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-470" y="390" width="170" height="107.37" as="geometry" />
         </mxCell>
         <mxCell id="IoEwdeMXLNU2qVer5Yop-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#000000;exitX=0.33;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -133,7 +133,7 @@
             <mxPoint x="-287.26" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IoEwdeMXLNU2qVer5Yop-46" value="ITWAP 02&lt;br&gt;&lt;div&gt;ITSupportVLAN100&lt;/div&gt;&lt;div&gt;192.168.100.2/24&lt;/div&gt;&lt;div&gt;Switch port 21&lt;/div&gt;&lt;div&gt;Gateway 192.168.100.1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-46" value="ITWAP 02&lt;br&gt;&lt;div&gt;ITSupportVLAN200&lt;/div&gt;&lt;div&gt;192.168.200.2/24&lt;/div&gt;&lt;div&gt;Switch port 21&lt;/div&gt;&lt;div&gt;Gateway 192.168.100.1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-470" y="204.28" width="170" height="107.37" as="geometry" />
         </mxCell>
         <mxCell id="IoEwdeMXLNU2qVer5Yop-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#000000;exitX=0.33;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -142,10 +142,10 @@
             <mxPoint x="-287.26" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IoEwdeMXLNU2qVer5Yop-50" value="&lt;div&gt;WAP DHCP:&lt;/div&gt;&lt;div&gt;Range: 192.168.100.50-100/24&lt;/div&gt;&lt;div&gt;Gateway: 192.168.100.1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-50" value="&lt;div&gt;WAP DHCP:&lt;/div&gt;&lt;div&gt;Range: 192.168.100.50-200/24&lt;/div&gt;&lt;div&gt;Gateway: 192.168.200.1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="-470" y="321.5" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IoEwdeMXLNU2qVer5Yop-51" value="&lt;div&gt;Router Internal Interfaces:&lt;/div&gt;&lt;div&gt;Multimedia VLAN is connected to interface G0/1 as 192.168.1.1/24&lt;/div&gt;&lt;div&gt;Sales &amp;amp; Marketing VLAN... G0/2 .. 192.168.2.1/24&lt;/div&gt;&lt;div&gt;IT Support WVLAN ... G0/3 ..192.168.100.1&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=9;glass=0;shadow=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-51" value="&lt;div&gt;Router Internal Interfaces:&lt;/div&gt;&lt;div&gt;Multimedia VLAN is connected to interface G0/1 as 192.168.1.1/24&lt;/div&gt;&lt;div&gt;Sales &amp;amp; Marketing VLAN... G0/2 .. 192.168.2.1/24&lt;/div&gt;&lt;div&gt;IT Support WVLAN ... G0/3 ..192.168.200.1&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=9;glass=0;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="427.37" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IoEwdeMXLNU2qVer5Yop-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#000000;" edge="1" parent="1">
@@ -273,7 +273,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IoEwdeMXLNU2qVer5Yop-91" value="&lt;div&gt;&lt;b&gt;Multimedia VLAN1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Switch port 1-15&lt;/div&gt;&lt;div&gt;192.168.1.50-100/24&lt;/div&gt;&lt;div&gt;Gateway 192.168.1.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SalesMarketingVLAN2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Switch port 16-20&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.50-100/24&lt;/div&gt;&lt;div&gt;Gateway 192.168.2.1&lt;/div&gt;&lt;div&gt;&lt;b&gt;IT Support VLAN100&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Specified below&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=9;strokeColor=#0e8088;fillColor=#b0e3e6;" vertex="1" parent="1">
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-91" value="&lt;div&gt;&lt;b&gt;Multimedia VLAN1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Switch port 1-15&lt;/div&gt;&lt;div&gt;192.168.1.50-100/24&lt;/div&gt;&lt;div&gt;Gateway 192.168.1.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SalesMarketingVLAN2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Switch port 16-20&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.50-100/24&lt;/div&gt;&lt;div&gt;Gateway 192.168.2.1&lt;/div&gt;&lt;div&gt;&lt;b&gt;IT Support VLAN200&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Specified below&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=9;strokeColor=#0e8088;fillColor=#b0e3e6;" vertex="1" parent="1">
           <mxGeometry x="-410" y="40" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
