@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T04:25:39.598Z" agent="5.0 (Macintosh)" etag="oTmkfGwr7WKAb3367421" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T04:26:37.344Z" agent="5.0 (Macintosh)" etag="ThFzOYPRft4VWqjQWits" version="17.4.0" type="github">
   <diagram id="7B7-dU7_U9arGdIsB1Jr" name="Page-1">
     <mxGraphModel dx="1661" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -273,7 +273,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IoEwdeMXLNU2qVer5Yop-91" value="&lt;div&gt;&lt;b&gt;Multimedia VLAN201&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Switch port 1-15&lt;/div&gt;&lt;div&gt;192.168.1.50-100/24&lt;/div&gt;&lt;div&gt;Gateway 192.168.1.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SalesMarketingVLAN202&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Switch port 16-20&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.50-100/24&lt;/div&gt;&lt;div&gt;Gateway 192.168.2.1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=9;strokeColor=#0e8088;fillColor=#b0e3e6;" vertex="1" parent="1">
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-91" value="&lt;div&gt;&lt;b&gt;Multimedia VLAN201&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Switch port 1-15&lt;/div&gt;&lt;div&gt;192.168.1.50-100/24&lt;/div&gt;&lt;div&gt;Gateway 192.168.1.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SalesMarketingVLAN202&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Switch port 16-20&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.50-100/24&lt;/div&gt;&lt;div&gt;Gateway 192.168.2.1&lt;/div&gt;&lt;div&gt;&lt;b&gt;IT Support VLAN&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Specified below&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=9;strokeColor=#0e8088;fillColor=#b0e3e6;" vertex="1" parent="1">
           <mxGeometry x="-410" y="40" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
