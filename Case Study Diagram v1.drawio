@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T02:44:44.030Z" agent="5.0 (Macintosh)" version="17.4.0" etag="HbvsHJkz5WzHMzLDT8ck" type="github"><diagram id="7B7-dU7_U9arGdIsB1Jr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-19T03:16:02.651Z" agent="5.0 (Macintosh)" etag="_fhKGj8WQrxeSS3gvRMp" version="17.4.0" type="github">
+  <diagram id="7B7-dU7_U9arGdIsB1Jr" name="Page-1">
+    <mxGraphModel dx="1832" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-1" value="ISP" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="610" y="100" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="IoEwdeMXLNU2qVer5Yop-5" target="IoEwdeMXLNU2qVer5Yop-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-7" value="Sydney Web Server" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="439.25" y="430" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-9" value="&lt;div&gt;Perth Router&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="55" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="320" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-11" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" edge="1" parent="IoEwdeMXLNU2qVer5Yop-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-14" value="" style="group" vertex="1" connectable="0" parent="IoEwdeMXLNU2qVer5Yop-13">
+          <mxGeometry x="-175" width="365" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-10" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" edge="1" parent="IoEwdeMXLNU2qVer5Yop-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="7.4876543209876445" as="sourcePoint" />
+            <mxPoint x="175" y="9" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-12" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" edge="1" parent="IoEwdeMXLNU2qVer5Yop-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="20" as="sourcePoint" />
+            <mxPoint x="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-15" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1" source="IoEwdeMXLNU2qVer5Yop-5" target="IoEwdeMXLNU2qVer5Yop-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="450" as="sourcePoint" />
+            <mxPoint x="390" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/firewall-128.png;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="471.5" y="270" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-5" value="Sydney Router" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="55" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-17" value="Floor 2" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d6b656;fillColor=#fff2cc;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="140" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-18" value="Floor 1" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#9673a6;fillColor=#e1d5e7;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="370" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-19" value="HDLC Connection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-20" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-58" y="380" width="48" height="21.65" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-21" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-58" y="290" width="48" height="21.65" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-23" value="&lt;span style=&quot;font-size: 13px; line-height: 120%; font-family: &amp;quot;calibri&amp;quot;, sans-serif; color: black;&quot;&gt;209.165.200.225/29&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-24" value="192.168.50.1/29" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="341.5" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-25" value="192.168.50.2/29" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="85" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoEwdeMXLNU2qVer5Yop-26" value="The slash 29 subnet was chosen because it is small (6 hosts) but still allows for future office growth in another locations" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
