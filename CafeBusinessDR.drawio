@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T12:31:42.278Z" agent="5.0 (Macintosh)" etag="nDvtvM7LHY0oY7tuR5-9" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-23T12:32:10.533Z" agent="5.0 (Macintosh)" etag="C8waaGcMU6Vg-pLFQWeD" version="20.5.3" type="github" pages="2">
   <diagram id="W1gXoFSjIlfiuD1uIif6" name="Page-1">
     <mxGraphModel dx="1183" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
           <mxGeometry x="990" y="60" width="55" height="74.8" as="geometry" />
         </mxCell>
         <mxCell id="z7N2rbnObWpFByWFJ4T3-13" value="RDS Snapshots" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;strokeWidth=3;" vertex="1" parent="z7N2rbnObWpFByWFJ4T3-4">
-          <mxGeometry x="740" y="690" width="80" height="100" as="geometry" />
+          <mxGeometry x="740" y="680" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="z7N2rbnObWpFByWFJ4T3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=15;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;" edge="1" parent="z7N2rbnObWpFByWFJ4T3-4" source="z7N2rbnObWpFByWFJ4T3-14" target="z7N2rbnObWpFByWFJ4T3-5">
           <mxGeometry relative="1" as="geometry">
